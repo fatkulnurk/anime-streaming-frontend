@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c40c638-4220-4f20-bb75-0ecb4231171d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="[genreSlug]" />
+        <option value="Hero" />
+        <option value="[slugAnime]" />
+        <option value="index" />
+        <option value="_layout" />
+        <option value="List" />
+        <option value="Detail" />
+        <option value="Stream" />
+        <option value="DownloadLink" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gzQcwWpN2fsq88w6BqO5QHmqWX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/anime" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="ts.external.directory.path" value="C:\tools\jetbrains\apps\WebStorm\ch-0\202.6948.73\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\app-project\animeflix\src\pages\anime\[slugAnime]" />
+      <recent name="C:\app-project\animeflix\src\pages\anime\[animeSlug]" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\app-project\animeflix\src\pages\anime" />
+      <recent name="C:\app-project\animeflix\src\pages" />
+      <recent name="C:\app-project\animeflix\src\pages\anime\[episode]" />
+      <recent name="C:\app-project\animeflix\src\pages\anime\[animeSlug]" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c40c638-4220-4f20-bb75-0ecb4231171d" name="Default Changelist" comment="" />
+      <created>1599115023772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599115023772</updated>
+      <workItem from="1599115024966" duration="19051000" />
+      <workItem from="1599147805262" duration="2501000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599135216061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599135216061" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1599125002793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599125002793" />
+  </component>
+</project>
